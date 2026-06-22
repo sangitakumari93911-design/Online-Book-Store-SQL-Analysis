@@ -8,7 +8,7 @@ Designed and analyzed a relational database for an Online Book Store to uncover 
 
 ## 🛠️ Skills & Technologies
 
-* SQL (PostgreSQL/MySQL)
+* SQL (PostgreSQL)
 * Database Design & Normalization
 * Data Analysis
 * Data Modeling
@@ -26,7 +26,7 @@ Designed and analyzed a relational database for an Online Book Store to uncover 
 
 ## 📊 Business Insights Generated
 
-* Identified the Top 5 Best-Selling Books based on sales volume.
+* Identified the Top Best-Selling Books based on sales volume.
 * Analyzed Top Customers contributing the highest revenue.
 * Tracked Monthly and Yearly Revenue Trends.
 * Evaluated Most Popular Book Genres and Categories.
